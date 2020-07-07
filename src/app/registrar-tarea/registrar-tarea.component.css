@@ -1,0 +1,15 @@
+.contenedor{
+    width: 50%;
+    margin-top: 3%;
+    margin-left: 20%;
+    border: 2px solid grey;
+    padding: 10px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px gray;
+}
+.centrado-titulo{
+    margin-left: 20%;
+}
+.centrado-boton{
+    margin-left: 40%;
+}
